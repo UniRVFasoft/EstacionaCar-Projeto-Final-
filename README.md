@@ -1,4 +1,5 @@
 Alunos:
+
 Rafael Ramos 
 Lucas Elias
 David henry
@@ -7,10 +8,11 @@ João Vitor Branquinho
 Link do projeto online:
 https://projeto-final-sigma-beryl.vercel.app
 
+=========================================================================================================================================================
 
 x O projeto contém um programa para estacionamento de carros. 
 
-x É possivel adicionar o carro informando o nome do veículo, placa e proprietario (Deve ser inserido no formato correto ABC-1234, Caso contrario aparece um aviso dizendo que está no formato errado de placa (verificação)).
+x É possivel adicionar o carro informando o nome do veículo, placa e proprietario (Possui uma verificação para placa estar no formato correto ABC-1234).
 
 x Possui o botão de deletar na tabela, quando e deletado mostra o tempo que o carro permaneceu desde que foi estacionado.
 
@@ -24,3 +26,4 @@ x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais es
 
 (A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento).
 
+=========================================================================================================================================================
