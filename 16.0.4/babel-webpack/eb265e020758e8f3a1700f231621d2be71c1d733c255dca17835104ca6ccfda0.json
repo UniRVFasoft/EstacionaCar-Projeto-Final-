@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"names":[],"sources":["D:\\Angular\\estacionamento\\src\\app\\app-routing.module.ts"],"sourcesContent":["import { NgModule } from '@angular/core';\nimport { Routes, RouterModule } from '@angular/router';\n\n\n"],"mappings":""},"metadata":{},"sourceType":"module","externalDependencies":[]}
