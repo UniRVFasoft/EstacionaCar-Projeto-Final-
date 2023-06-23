@@ -11,7 +11,7 @@ Alunos:
 Link do projeto online:
 https://projeto-final-sigma-beryl.vercel.app
 
-===========================================================================================
+======================================================================
 
 x O projeto contém um programa para estacionamento de carros. 
 
@@ -29,4 +29,4 @@ x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais es
 
 (A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento).
 
-===========================================================================================
+======================================================================
