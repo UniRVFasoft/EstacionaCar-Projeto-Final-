@@ -19,7 +19,8 @@ x É possivel adicionar o carro informando o nome do veículo, placa e proprieta
 
 x Possui o botão de deletar na tabela, quando e deletado mostra o tempo que o carro permaneceu desde que foi estacionado.
 
-x Quando um carro é deletado é possivel ver no botão "histórico" todos os carros já deletados e suas informaçoes.
+x Quando um carro é deletado é possivel ver no botão "histórico".
+" todos os carros já deletados e suas informaçoes.
 
 x É possivel limpar o histórico de veiculos.
 
@@ -30,3 +31,7 @@ x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais es
 (A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento).
 
 ======================================================================
+![sdc](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/f7842cf0-4ee3-43a6-994f-395a25074c0a)
+
+
+
