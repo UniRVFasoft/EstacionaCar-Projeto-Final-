@@ -10,7 +10,7 @@ https://projeto-final-sigma-beryl.vercel.app
 
 x O projeto contém um programa para estacionamento de carros. 
 
-x É possivel adicionar o carro informando o nome do veículo, placa e proprietario.
+x É possivel adicionar o carro informando o nome do veículo, placa e proprietario (Deve ser inserido no formato correto ABC-1234, Caso contrario aparece um aviso dizendo que está no formato errado de placa (verificação)).
 
 x Possui o botão de deletar na tabela, quando e deletado mostra o tempo que o carro permaneceu desde que foi estacionado.
 
