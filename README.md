@@ -13,7 +13,7 @@ https://projeto-final-sigma-beryl.vercel.app
 
 ======================================================================
 
-x O projeto contém um programa para estacionamento de carros. 
+x O projeto contém um programa para estacionamento de carros PARA DESKTOP.
 
 x É possivel adicionar o carro informando o nome do veículo, placa e proprietario (Possui uma verificação para placa estar no formato correto ABC-1234).
 
