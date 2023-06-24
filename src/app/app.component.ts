@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { MatSlideToggleModule } from '@angular/material/slide-toggle';
+import { Component, NgModule, OnInit } from '@angular/core';
 import { format } from 'date-fns';
 import { Router } from '@angular/router';
 
@@ -9,6 +10,12 @@ interface Car {
   owner: string;
   deleted?: boolean;
 }
+ @NgModule({
+  imports: [
+    MatSlideToggleModule,
+  ]
+})
+class AppModule {}
 
 @Component({
   selector: 'app-root',
