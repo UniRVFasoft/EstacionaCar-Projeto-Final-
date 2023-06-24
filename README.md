@@ -1,27 +1,46 @@
-# Estacionamento
+Alunos:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+-Rafael Ramos 
 
-## Development server
+-Lucas Elias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-David henry
 
-## Code scaffolding
+-João Vitor Branquinho 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Link do projeto online:
+https://projeto-final-sigma-beryl.vercel.app
 
-## Build
+======================================================================
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+x O projeto contém um programa para estacionamento de carros PARA DESKTOP.
 
-## Running unit tests
+x É possivel adicionar o carro informando o nome do veículo, placa e proprietario (Possui uma verificação para placa estar no formato correto ABC-1234).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+x Possui o botão de deletar na tabela, quando e deletado mostra o tempo que o carro permaneceu desde que foi estacionado.
 
-## Running end-to-end tests
+x Quando um carro é deletado é possivel ver no botão "histórico".
+" todos os carros já deletados e suas informaçoes.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+x É possivel limpar o histórico de veiculos.
 
-## Further help
+x Todos os dados são salvos no proprio navegador.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais especificamente o objeto localStorage.
+
+(A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento).
+
+======================================================================
+
+TELA PRINCIPAL
+
+![sdc](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/f7842cf0-4ee3-43a6-994f-395a25074c0a)
+
+======================================================================
+
+TELA DE HISTÓRICO
+
+![FGHB](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/1f59ff68-b693-4884-b2d2-98f24b031a8d)
+
+
+
