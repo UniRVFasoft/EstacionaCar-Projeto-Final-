@@ -23,9 +23,7 @@ x Quando um carro é deletado é possivel ver no botão "histórico" (todos os c
 
 x É possivel limpar o histórico de veiculos.
 
-x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais especificamente o objeto localStorage.
-
-(A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento).
+x A classe AppComponent possui métodos que utilizam o localStorage para armazenar e recuperar os dados relacionados aos veículos estacionados no estacionamento.
 
 ======================================================================
 
