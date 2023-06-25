@@ -29,15 +29,21 @@ x Este arquivo salva os dados no navegador utilizando a API Web Storage, mais es
 
 ======================================================================
 
-TELA PRINCIPAL
+TELA PRINCIPAL (EXIBINDO TODOS VEICULOS REGISTRADOS E A TABELA DE PREÇOS)
 
-![sdc](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/f7842cf0-4ee3-43a6-994f-395a25074c0a)
+![P1](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/52283997-eb24-4e08-91cf-432fdd8b213d)
 
 ======================================================================
 
-TELA DE HISTÓRICO
+EXIBIÇÃO DO TEMPO PERMANECIDO NO ESTACIONAMENTO (DESDE QUE FOI REGISTRADO).
 
-![FGHB](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/1f59ff68-b693-4884-b2d2-98f24b031a8d)
+![P2](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/e051238e-dabf-46f4-ad4f-0f995a3d1c2d)
+
+======================================================================
+
+TELA DE HISTÓRICO (OS QUE FORAM DELETADOS)
+
+![P3](https://github.com/UniRVFasoft/EstacionaCar-Projeto-Final-/assets/106891602/05c2d099-6346-4699-9d9b-790fc9aa24c9)
 
 
 
