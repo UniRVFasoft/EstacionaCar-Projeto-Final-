@@ -1,0 +1,8 @@
+body {
+    background-image: url('assets/Black.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+      
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

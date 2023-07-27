@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 50%;
+    margin: 2rem auto;
+    
+}
+
+div {
+    display: grid;
+    grid-template-columns: fr;
+    background-color: #850a0a;
+    padding: 0.7rem;
+    border-width: 3px; 
+    border-style: solid; 
+    border-color:  rgb(12, 12, 12); 
+    font-family: 'Roboto', sans-serif;
+}
+
+input, button {
+    width: 98%;
+    padding: 0.6rem 0.4rem;
+    margin: 0.4rem;
+    
+}
+
+button {
+    
+    text-decoration: none;
+    border: none;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    
+}
+
+.success {
+    background-color: rgb(13, 13, 13);
+    color: rgb(255, 255, 255);
+    font-weight: bold
+}
+
+.delete {
+    background-color: red;
+    color: white;
+}
+
+table {
+    background-color: rgb(187, 192, 63);
+    margin-top: .8rem;
+    width: 100%;  
+    border-collapse: collapse;
+    border-width: 3px; 
+    border-style: solid; 
+    border-color:  rgb(12, 12, 12);
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-weight: 540;
+    
+}
+
+th, td {
+    padding: 6px 25px;
+    text-align: left;
+    border-bottom: px solid #ddd;
+    
+}
+
+.barra-superior {
+    background-color: rgb(187, 192, 63);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Adicionado para separar os elementos horizontalmente */
+    padding: 0 10px; /* Adicionado espaçamento interno para evitar que os elementos fiquem colados às bordas */
+    font-family: 'Roboto', sans-serif;
+    
+}
+  
+.barra-superior h1 {
+    color: rgb(5, 4, 4);
+    
+}
+
+.imagem-direita {
+    position: fixed;
+    top: 1;
+    right: 0;
+    bottom: 0;
+    width: 350px;
+    border-width: 2px; 
+    border-style: ridge; 
+    border-color: rgb(187, 192, 63);
+    margin-left: 10px;
+  }
+.logo-img {
+    width: 82px; /* Ajuste o tamanho desejado para a imagem */
+    height: auto; /* Ajusta a altura automaticamente proporcionalmente à largura */
+}
+  
+.title {
+  flex-grow: 1; /* Faz o título ocupar todo o espaço disponível no centro */
+  text-align: center; /* Centraliza o texto horizontalmente */
+  font-family: 'Roboto', sans-serif;
+}
+
+  
+  

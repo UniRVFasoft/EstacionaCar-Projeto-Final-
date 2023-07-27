@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<div class="barra-superior">
+    <img src="assets/Logo.png" alt="Logo" class="logo-img">
+    <h1 class="title">EstacionaCar</h1>
+    <button (click)="showHistory()" style="width: 100px; height: 50px;color: rgb(255, 255, 255);background-color: #850a0a; ;border-width: 3px; border-style: solid;font-weight: bold;
+    border-color:  rgb(12, 12, 12);">Exibir Histórico</button>
+  </div>
+  
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Estacionamento</title>
+    <link rel="stylesheet" href="app.component.css">  
+</head>
+<body>
+    <div>
+        <input type="text" id="name" placeholder="Nome do veículo" autocomplete="off">
+        <input type="text" id="licence" placeholder="Placa do veículo" autocomplete="off">
+        <input type="text" id="owner" placeholder="Proprietário" autocomplete="off">
+        <th><button id="send" class="success">Registrar</button></th>
+         
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Veículo</th>
+                <th>Placa</th>
+                <th>Proprietário</th>
+                <th>Entrada</th>
+                <th>Ações</th>
+                
+            </tr>
+        </thead>
+        
+        <tbody id="garage"></tbody>
+    </table>
+    
+</body>
+
+<script src="app.component.ts"></script>
+</html>
+
+<img class="imagem-direita" src="assets/tabela.png" alt="SDSC">
+
